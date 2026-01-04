@@ -170,5 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
-data/SP25 CY1 Residents Roster.xlsx
-data/cat_memes/
+
+# Project specific
+data/
+out/
