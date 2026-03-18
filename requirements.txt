@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+Pillow
+openpyxl
+tqdm
+# Optional: Reddit meme download
+# praw
+# requests
